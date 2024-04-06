@@ -1,8 +1,32 @@
-AS9808_China_Mobile_Communications_Group_Co.,_Ltd._Prefixes_v4
-36513024
+AS132203_Tencent_Building,_Kejizhongyi_Avenue_Prefixes_v4
+1748736
 
-AS9808_China_Mobile_Communications_Group_Co.,_Ltd._Prefixes_v6
-272957447
+AS132203_Tencent_Building,_Kejizhongyi_Avenue_Prefixes_v6
+16476
+
+AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v4
+89600
+
+AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v6
+4121
+
+AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v4
+62464
+
+AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v6
+49
+
+AS45090_Shenzhen_Tencent_Computer_Systems_Company_Limited_Prefixes_v4
+5889792
+
+AS45090_Shenzhen_Tencent_Computer_Systems_Company_Limited_Prefixes_v6
+65536
+
+AS55990_Huawei_Cloud_Service_data_center_Prefixes_v4
+4294967296
+
+AS55990_Huawei_Cloud_Service_data_center_Prefixes_v6
+81864941639
 
 cernet4
 17187328
@@ -14,7 +38,7 @@ china4
 288223744
 
 china6
-1668583774
+1668583762
 
 chinanet4
 128981760
@@ -45,12 +69,6 @@ googlecn4
 
 googlecn6
 65568
-
-tietong4
-41418496
-
-tietong6
-276761622
 
 unicom4
 73525760
