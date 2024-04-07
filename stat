@@ -8,7 +8,7 @@ AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v4
 89600
 
 AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v6
-4122
+4121
 
 AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v4
 62464
@@ -41,10 +41,10 @@ cernet6
 674234885
 
 china4
-288226304
+40760064
 
 china6
-1668584317
+276546570
 
 chinanet4
 128980992
@@ -53,10 +53,10 @@ chinanet6
 268970459
 
 cmcc4
-41418496
+36612608
 
 cmcc6
-276761622
+273220618
 
 cstnet4
 737280
@@ -77,8 +77,8 @@ googlecn6
 65568
 
 unicom4
-73525760
+4147456
 
 unicom6
-33744736
+3325952
 
