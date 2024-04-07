@@ -8,13 +8,19 @@ AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v4
 89600
 
 AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v6
-4121
+4122
 
 AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v4
 62464
 
 AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v6
 49
+
+AS398722_Censys,_Inc._Prefixes_v4
+512
+
+AS398722_Censys,_Inc._Prefixes_v6
+2
 
 AS45090_Shenzhen_Tencent_Computer_Systems_Company_Limited_Prefixes_v4
 5889792
@@ -35,10 +41,10 @@ cernet6
 674234885
 
 china4
-288223744
+288226304
 
 china6
-1668583769
+1668584317
 
 chinanet4
 128980992
