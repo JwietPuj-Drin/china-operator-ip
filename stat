@@ -16,6 +16,12 @@ AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v4
 AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v6
 49
 
+AS24151_China_Internet_Network_Infomation_Center_Prefixes_v4
+16896
+
+AS24151_China_Internet_Network_Infomation_Center_Prefixes_v6
+65536
+
 AS398722_Censys,_Inc._Prefixes_v4
 512
 
@@ -28,32 +34,44 @@ AS45090_Shenzhen_Tencent_Computer_Systems_Company_Limited_Prefixes_v4
 AS45090_Shenzhen_Tencent_Computer_Systems_Company_Limited_Prefixes_v6
 65536
 
+AS55960_Beijing_Guanghuan_Xinwang_Digital_Prefixes_v4
+448000
+
+AS55960_Beijing_Guanghuan_Xinwang_Digital_Prefixes_v6
+8768
+
 AS55990_Huawei_Cloud_Service_data_center_Prefixes_v4
 1261312
 
 AS55990_Huawei_Cloud_Service_data_center_Prefixes_v6
 116736
 
+AS56046_China_Mobile_communications_corporation_Prefixes_v4
+3666944
+
+AS56046_China_Mobile_communications_corporation_Prefixes_v6
+1649195
+
 cernet4
 17187328
 
 cernet6
-674234885
+405684741
 
 china4
-40760064
+40763904
 
 china6
 276546570
 
 chinanet4
-128980992
+120508160
 
 chinanet6
-268970459
+268970456
 
 cmcc4
-36612608
+36616448
 
 cmcc6
 273220618
