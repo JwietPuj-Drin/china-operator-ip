@@ -22,6 +22,12 @@ AS24151_China_Internet_Network_Infomation_Center_Prefixes_v4
 AS24151_China_Internet_Network_Infomation_Center_Prefixes_v6
 65536
 
+AS398324_Censys,_Inc._Prefixes_v4
+1792
+
+AS398324_Censys,_Inc._Prefixes_v6
+4
+
 AS398722_Censys,_Inc._Prefixes_v4
 512
 
@@ -33,6 +39,18 @@ AS45090_Shenzhen_Tencent_Computer_Systems_Company_Limited_Prefixes_v4
 
 AS45090_Shenzhen_Tencent_Computer_Systems_Company_Limited_Prefixes_v6
 65536
+
+AS4808_China_Unicom_Beijing_Province_Network_Prefixes_v4
+7922720
+
+AS4808_China_Unicom_Beijing_Province_Network_Prefixes_v6
+2114305
+
+AS4812_China_Telecom_(Group)_Prefixes_v4
+8550656
+
+AS4812_China_Telecom_(Group)_Prefixes_v6
+3191065
 
 AS55960_Beijing_Guanghuan_Xinwang_Digital_Prefixes_v4
 448000
@@ -56,7 +74,7 @@ cernet4
 17187328
 
 cernet6
-405684741
+674234885
 
 china4
 40763904
@@ -65,7 +83,7 @@ china6
 276546570
 
 chinanet4
-120508160
+120502528
 
 chinanet6
 268970456
