@@ -1,14 +1,20 @@
 AS132203_Tencent_Building,_Kejizhongyi_Avenue_Prefixes_v4
-1748736
+1748224
 
 AS132203_Tencent_Building,_Kejizhongyi_Avenue_Prefixes_v6
-16476
+16477
+
+AS134420_Chongqing_Telecom_Prefixes_v4
+93184
+
+AS134420_Chongqing_Telecom_Prefixes_v6
+142596
 
 AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v4
 89600
 
 AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v6
-4121
+4634
 
 AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v4
 62464
@@ -47,7 +53,7 @@ AS4808_China_Unicom_Beijing_Province_Network_Prefixes_v6
 2114305
 
 AS4812_China_Telecom_(Group)_Prefixes_v4
-8550656
+8550400
 
 AS4812_China_Telecom_(Group)_Prefixes_v6
 3191065
@@ -71,10 +77,10 @@ AS56046_China_Mobile_communications_corporation_Prefixes_v6
 1649195
 
 cernet4
-17187328
+17187072
 
 cernet6
-674234885
+674169349
 
 china4
 40763904
@@ -83,7 +89,7 @@ china6
 276546570
 
 chinanet4
-120502528
+120484096
 
 chinanet6
 268970456
