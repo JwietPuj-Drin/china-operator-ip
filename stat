@@ -4,6 +4,12 @@ AS132203_Tencent_Building,_Kejizhongyi_Avenue_Prefixes_v4
 AS132203_Tencent_Building,_Kejizhongyi_Avenue_Prefixes_v6
 16477
 
+AS133118_China_Unicom_IP_network_Prefixes_v4
+69888
+
+AS133118_China_Unicom_IP_network_Prefixes_v6
+65536
+
 AS134420_Chongqing_Telecom_Prefixes_v4
 93184
 
@@ -16,11 +22,53 @@ AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v4
 AS134756_CHINANET_Nanjing_Jishan_IDC_network_Prefixes_v6
 4634
 
+AS134768_CHINANET_SHAANXI_province_Cloud_Base_network_Prefixes_v4
+176640
+
+AS134768_CHINANET_SHAANXI_province_Cloud_Base_network_Prefixes_v6
+12318
+
+AS140061_Qinghai_Telecom_Prefixes_v4
+516096
+
+AS140061_Qinghai_Telecom_Prefixes_v6
+965652
+
+AS140292_CHINATELECOM_Jiangsu_province_Suzhou_5G_network_Prefixes_v4
+849920
+
+AS140292_CHINATELECOM_Jiangsu_province_Suzhou_5G_network_Prefixes_v6
+15199
+
+AS140726_UNICOM_AnHui_province_network_Prefixes_v4
+139520
+
+AS140726_UNICOM_AnHui_province_network_Prefixes_v6
+235568
+
 AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v4
 62464
 
 AS140979_China_Unicom_Shanghai_FuTe_IDC_network_Prefixes_v6
 49
+
+AS17621_China_Unicom_Shanghai_network_Prefixes_v4
+1035264
+
+AS17621_China_Unicom_Shanghai_network_Prefixes_v6
+1562724
+
+AS17622_China_Unicom_Guangzhou_network_Prefixes_v4
+704000
+
+AS17622_China_Unicom_Guangzhou_network_Prefixes_v6
+48129
+
+AS17638_ASN_for_TIANJIN_Provincial_Net_of_CT_Prefixes_v4
+715776
+
+AS17638_ASN_for_TIANJIN_Provincial_Net_of_CT_Prefixes_v6
+393490
 
 AS24151_China_Internet_Network_Infomation_Center_Prefixes_v4
 16896
@@ -53,10 +101,22 @@ AS4808_China_Unicom_Beijing_Province_Network_Prefixes_v6
 2114305
 
 AS4812_China_Telecom_(Group)_Prefixes_v4
-8550400
+8551936
 
 AS4812_China_Telecom_(Group)_Prefixes_v6
 3191065
+
+AS4837_China_Unicom_Backbone_Prefixes_v4
+58917632
+
+AS4837_China_Unicom_Backbone_Prefixes_v6
+27492365
+
+AS4847_China_Networks_Inter-Exchange_Prefixes_v4
+4586240
+
+AS4847_China_Networks_Inter-Exchange_Prefixes_v6
+458759
 
 AS55960_Beijing_Guanghuan_Xinwang_Digital_Prefixes_v4
 448000
@@ -74,28 +134,34 @@ AS56046_China_Mobile_communications_corporation_Prefixes_v4
 3666944
 
 AS56046_China_Mobile_communications_corporation_Prefixes_v6
-1649195
+1649196
+
+AS58519_Cloud_Computing_Corporation_Prefixes_v4
+593664
+
+AS58519_Cloud_Computing_Corporation_Prefixes_v6
+19268
 
 cernet4
-17187072
+17186816
 
 cernet6
-674169349
+674169353
 
 china4
-40763904
+40768256
 
 china6
 276546570
 
 chinanet4
-120484096
+115184128
 
 chinanet6
-268970456
+268902865
 
 cmcc4
-36616448
+36620800
 
 cmcc6
 273220618
