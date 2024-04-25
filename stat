@@ -1,5 +1,5 @@
 AS132203_Tencent_Building_Kejizhongyi_Avenue_Prefixes_v4
-1748224
+1747712
 
 AS132203_Tencent_Building_Kejizhongyi_Avenue_Prefixes_v6
 16477
@@ -27,6 +27,12 @@ AS134768_CHINANET_SHAANXI_province_Cloud_Base_network_Prefixes_v4
 
 AS134768_CHINANET_SHAANXI_province_Cloud_Base_network_Prefixes_v6
 12318
+
+AS135377_UCLOUD_INFORMATION_TECHNOLOGY_HK_LIMITED_Prefixes_v4
+157952
+
+AS135377_UCLOUD_INFORMATION_TECHNOLOGY_HK_LIMITED_Prefixes_v6
+64
 
 AS140061_Qinghai_Telecom_Prefixes_v4
 516096
@@ -101,7 +107,7 @@ AS4808_China_Unicom_Beijing_Province_Network_Prefixes_v6
 2114305
 
 AS4812_China_Telecom_Group_Prefixes_v4
-8551936
+8550912
 
 AS4812_China_Telecom_Group_Prefixes_v6
 3191065
@@ -155,7 +161,7 @@ china6
 276546570
 
 chinanet4
-115184128
+115184720
 
 chinanet6
 268902865
