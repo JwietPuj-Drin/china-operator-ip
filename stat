@@ -22,6 +22,12 @@ AS134756_Prefixes_v4
 AS134756_Prefixes_v6
 4634
 
+AS134761_Prefixes_v4
+35328
+
+AS134761_Prefixes_v6
+80899
+
 AS134768_Prefixes_v4
 176640
 
@@ -33,6 +39,12 @@ AS135377_Prefixes_v4
 
 AS135377_Prefixes_v6
 64
+
+AS137687_Prefixes_v4
+64512
+
+AS137687_Prefixes_v6
+9475
 
 AS140061_Prefixes_v4
 516096
@@ -131,13 +143,13 @@ AS4837_Prefixes_v6
 27427085
 
 AS4847_Prefixes_v4
-4585984
+4584960
 
 AS4847_Prefixes_v6
 458761
 
 AS55960_Prefixes_v4
-448000
+447744
 
 AS55960_Prefixes_v6
 8768
@@ -166,6 +178,12 @@ AS58563_Prefixes_v4
 AS58563_Prefixes_v6
 43017
 
+AS60781_Prefixes_v4
+482048
+
+AS60781_Prefixes_v6
+39035233
+
 cernet4
 17186816
 
@@ -179,7 +197,7 @@ china6
 276546566
 
 chinanet4
-115181648
+115181904
 
 chinanet6
 268902866
