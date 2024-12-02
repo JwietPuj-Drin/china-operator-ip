@@ -20,7 +20,7 @@ AS134756_Prefixes_v4
 92416
 
 AS134756_Prefixes_v6
-4638
+4639
 
 AS134761_Prefixes_v4
 35328
@@ -119,7 +119,7 @@ AS23724_Prefixes_v6
 340301
 
 AS24151_Prefixes_v4
-17152
+17408
 
 AS24151_Prefixes_v6
 65536
@@ -149,13 +149,13 @@ AS45090_Prefixes_v6
 65536
 
 AS4808_Prefixes_v4
-7907328
+7906816
 
 AS4808_Prefixes_v6
 2115846
 
 AS4812_Prefixes_v4
-8551936
+8552192
 
 AS4812_Prefixes_v6
 3191065
@@ -212,7 +212,7 @@ AS60781_Prefixes_v4
 493824
 
 AS60781_Prefixes_v6
-31236521
+30646697
 
 cernet4
 17181184
