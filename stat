@@ -202,12 +202,6 @@ AS58563_Prefixes_v4
 AS58563_Prefixes_v6
 43026
 
-AS60781_Prefixes_v4
-445440
-
-AS60781_Prefixes_v6
-24093045
-
 ChinaSubpartesSuspectae4
 403456
 
@@ -218,13 +212,19 @@ Cross4
 69038848
 
 Cross6
-11031965
+11031961
+
+IPDynamicum4
+12294144
+
+IPDynamicum6
+8193283
 
 Suspectus4
 610608011
 
 Suspectus6
-5178245313
+5178245318
 
 cernet4
 17186304
