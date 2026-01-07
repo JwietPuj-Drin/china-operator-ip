@@ -160,12 +160,6 @@ AS4812_Prefixes_v4
 AS4812_Prefixes_v6
 3191049
 
-AS4837_Prefixes_v4
-57710848
-
-AS4837_Prefixes_v6
-27332411
-
 AS4847_Prefixes_v4
 4249600
 
@@ -213,6 +207,12 @@ AS60781_Prefixes_v4
 
 AS60781_Prefixes_v6
 24093045
+
+ChinaSubpartesSuspectae4
+403456
+
+ChinaSubpartesSuspectae6
+1966625
 
 Cross4
 69038848
