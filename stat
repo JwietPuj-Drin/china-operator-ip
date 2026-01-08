@@ -41,7 +41,7 @@ AS134771_Prefixes_v6
 24577
 
 AS135377_Prefixes_v4
-181760
+182016
 
 AS135377_Prefixes_v6
 71
@@ -113,7 +113,7 @@ AS17638_Prefixes_v6
 393491
 
 AS23724_Prefixes_v4
-2941696
+2906880
 
 AS23724_Prefixes_v6
 340052
@@ -155,7 +155,7 @@ AS4808_Prefixes_v6
 2638072
 
 AS4812_Prefixes_v4
-8558592
+8558848
 
 AS4812_Prefixes_v6
 3191049
@@ -203,28 +203,28 @@ AS58563_Prefixes_v6
 43026
 
 ChinaSubpartesSuspectae4
-403456
+12949248
 
 ChinaSubpartesSuspectae6
-1966625
+16684416
 
 Cross4
-69038848
+69041920
 
 Cross6
-11031961
+11031969
 
 IPDynamicum4
-12294144
+12294400
 
 IPDynamicum6
 8193283
 
 Suspectus4
-610608011
+619584139
 
 Suspectus6
-5178245318
+5190729155
 
 cernet4
 17186304
@@ -239,7 +239,7 @@ china6
 276284936
 
 chinanet4
-115807232
+115771392
 
 chinanet6
 268902908
